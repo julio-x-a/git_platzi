@@ -1,0 +1,9 @@
+main {
+    margin: auto;
+    width: 50vh;
+}
+
+
+.img-rounded {
+    border-radius: 100%;
+}
